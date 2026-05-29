@@ -1,4 +1,4 @@
-# 📜 LogStream — Real-Time Log Aggregation & Alerting (Async)
+# 📜 LogStream - Real-Time Log Aggregation & Alerting (Async)
 Python · AsyncIO · Pandas · Matplotlib  
 
 LogStream is a Python-based asynchronous log aggregation and alerting simulator.  
