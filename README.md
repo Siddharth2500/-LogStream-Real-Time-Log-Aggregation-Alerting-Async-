@@ -18,7 +18,7 @@ It’s designed for **DevOps monitoring, alerting demos, and log stream processi
 | Regex Rules  | re (stdlib)| Simple but powerful alerting engine                 |
 | Runtime      | Colab/Local| Works in notebooks or local Python environments     |
 
--------------
+---------------
 
 ## 🌐 Architecture
 
