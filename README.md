@@ -6,7 +6,7 @@ It generates synthetic logs from multiple services, applies regex-based alert ru
 
 It’s designed for **DevOps monitoring, alerting demos, and log stream processing experiments** without needing external brokers like Kafka.
 
------------------------
+------------------------
 
 ## 🛠 Tech & Languages
 
